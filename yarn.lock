@@ -2101,7 +2101,7 @@
     "merge-stream" "^2.0.0"
     "supports-color" "^6.1.0"
 
-"jest@24.1.0":
+"jest@^24.1.0":
   "integrity" "sha512-+q91L65kypqklvlRFfXfdzUKyngQLOcwGhXQaLmVHv+d09LkNXuBuGxlofTFW42XMzu3giIcChchTsCNUjQ78A=="
   "resolved" "https://registry.npmjs.org/jest/-/jest-24.1.0.tgz"
   "version" "24.1.0"
