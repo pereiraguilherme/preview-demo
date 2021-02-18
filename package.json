@@ -8,6 +8,6 @@
     "express": "^4.3.0",
     "jest": "^24.1.0",
     "minimist": "^1.0.0",
-    "sanitize-html": "^1.4.1"
+    "sanitize-html": "^1.11.2"
   }
 }
